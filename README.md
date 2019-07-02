@@ -1,7 +1,7 @@
 # PvZmoD_Spawn_System_Profile
 
 V1.04.d 
-(should be release wenesday 19/07/03 18h CTE)
+(should be release wednesday 19/07/03 18h CTE)
 
 MANDATORY CHANGES : 
 
